@@ -1,0 +1,20 @@
+{
+  "name": "study-bot",
+  "version": "1.0.0",
+  "description": "微信学习群机器人 - GitHub进度追踪 + 定时播报",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "dotenv": "^16.3.1",
+    "node-schedule": "^2.1.1",
+    "wechatferry": "^0.0.26",
+    "wechaty": "^1.20.2",
+    "wechaty-puppet-wechat4u": "^0.19.3",
+    "wechaty-puppet-xp": "^2.2.0"
+  }
+}

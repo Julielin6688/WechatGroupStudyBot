@@ -1,0 +1,27 @@
+[2026-04-01 00:33:30.149] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:33:30.150] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2026-04-01 00:33:30.153] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2026-04-01 00:34:44.423] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:34:44.423] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 00:38:03.097] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:38:03.097] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 00:42:44.636] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:42:44.636] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 00:43:26.902] [error] [WCF] [rpc_server.cpp::200::RpcServer::on_message_callback] msgSock-nng_send: Timed out
+[2026-04-01 00:44:03.126] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:44:03.126] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 00:44:06.301] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2026-04-01 00:44:06.307] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2026-04-01 00:44:06.307] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2026-04-01 00:46:40.240] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:46:40.240] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2026-04-01 00:46:40.242] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2026-04-01 00:51:27.462] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 00:51:27.463] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2026-04-01 00:51:27.465] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2026-04-01 01:01:32.533] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 01:01:32.533] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 01:23:10.286] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 01:23:10.287] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
+[2026-04-01 01:30:09.475] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2026-04-01 01:30:09.475] [warning] [WCF] [rpc_server.cpp::77::RpcServer::start] RPC 服务已在运行
